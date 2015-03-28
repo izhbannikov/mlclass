@@ -1,0 +1,26 @@
+Apologies if you receive multiple copies of this CfP.
+Please share the announcement below with those who may be interested.
+
+The PATC partners in France are hosting a number of courses in the coming months. As for all PATC events, these courses are in English and are free of charge for all participants. These are just some of many courses offered by the PRACE Advanced Training Centres based in Finland, France, Germany, Italy, Spain and the UK.
+
+Registration is now open for the following courses:
+Uncertainty quantification, 26-28 May, Maison de la Simulation, Saclay, France
+Details and registration: https://events.prace-ri.eu/event/372/ 
+
+Main topics: 
+Uncertainty in computer simulations,
+Deterministic and probabilistic methods for quantifying uncertainty,
+OpenTurns software, Uranie software
+
+You can find all the courses offered by the PATCs at http://events.prace-ri.eu/categoryDisplay.py?categId=2  
+and further info about Maison de la Simulation at http://www.maisondelasimulation.fr/Phocea/Page/index.php?id=71  
+If you have specific enquiries please contact patc@maisondelasimulation.fr
+
+Best regards
+Michel Kern, coordinator for PATC France
+
+*****************************************************
+You receive these emails because you have atetnded a PRACE training event. If you wish to unsubscribe from this mailing list, please go to: https://lists.fz-juelich.de/mailman/listinfo/prace-training-announce/ 
+****************************************************
+
+-- 
